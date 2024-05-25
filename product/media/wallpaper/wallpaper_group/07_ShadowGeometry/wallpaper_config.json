@@ -1,0 +1,25 @@
+{
+    "title": "光影几何",
+    "titleResId": "wallpaper_group_shadow_geometry_title",
+    "cardType": 1,
+    "count": 4,
+    "slideCount": 4,
+    "randomOrder": false,
+    "wallpapers": [{
+        "thumbPath": "./ShadowGeometry01.jpg",
+        "originPath": "./ShadowGeometry01.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./ShadowGeometry02.jpg",
+        "originPath": "./ShadowGeometry02.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./ShadowGeometry03.jpg",
+        "originPath": "./ShadowGeometry03.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./ShadowGeometry04.jpg",
+        "originPath": "./ShadowGeometry04.jpg",
+        "type": "wallpaper"
+    }]
+}
