@@ -1,0 +1,3 @@
+#vt quality
+on property:persist.radio.ims.initial_utilize_factor=*
+    setprop persist.vendor.ims.initial_utilize_factor ${persist.radio.ims.initial_utilize_factor}

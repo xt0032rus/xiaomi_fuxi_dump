@@ -1,0 +1,44 @@
+{
+    "title": "光圈",
+    "titleResId": "wallpaper_group_light_cycles_title",
+    "cardType": 1,
+    "count": 7,
+    "slideCount": 7,
+    "randomOrder": false,
+    "wallpapers": [{
+        "thumbPath": "./LightCycles001.webp",
+        "originPath": "./LightCycles001.mp4",
+	"isSupportLoop": "false",
+        "type": "videowallpaper"
+    }, {
+        "thumbPath": "./LightCycles002.webp",
+        "originPath": "./LightCycles002.mp4",
+	"isSupportLoop": "false",
+        "type": "videowallpaper"
+    }, {
+        "thumbPath": "./LightCycles003.webp",
+        "originPath": "./LightCycles003.mp4",
+	"isSupportLoop": "false",
+        "type": "videowallpaper"
+    }, {
+        "thumbPath": "./LightCycles004.webp",
+        "originPath": "./LightCycles004.mp4",
+	"isSupportLoop": "false",
+        "type": "videowallpaper"
+    }, {
+        "thumbPath": "./LightCycles005.webp",
+        "originPath": "./LightCycles005.mp4",
+	"isSupportLoop": "false",
+        "type": "videowallpaper"
+    }, {
+        "thumbPath": "./LightCycles006.webp",
+        "originPath": "./LightCycles006.mp4",
+	"isSupportLoop": "false",
+        "type": "videowallpaper"
+    }, {
+        "thumbPath": "./LightCycles007.webp",
+        "originPath": "./LightCycles007.mp4",
+	"isSupportLoop": "false",
+        "type": "videowallpaper"
+    }]
+}
