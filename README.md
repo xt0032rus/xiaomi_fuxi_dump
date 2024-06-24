@@ -1,0 +1,14 @@
+# missi_phone_global-user 14 UKQ1.230804.001 V816.0.5.0.UMCMIXM release-keys
+- manufacturer: xiaomi
+- platform: kalama
+- codename: fuxi
+- flavor: missi_phone_global-user
+- release: 14
+- id: UKQ1.230804.001
+- incremental: V816.0.5.0.UMCMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/fuxi_global/fuxi:13/TKQ1.221114.001/V816.0.5.0.UMCMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi_phone_global-user-14-UKQ1.230804.001-V816.0.5.0.UMCMIXM-release-keys
+- repo: xiaomi_fuxi_dump
