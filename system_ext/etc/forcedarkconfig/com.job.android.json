@@ -1,0 +1,8 @@
+{
+  "packageName": "com.job.android",
+  "forceDark": true,
+  "mainRule": 128,
+  "secondaryRule": 0,
+  "forceDarkActivityConfigList": [
+  ]
+}
