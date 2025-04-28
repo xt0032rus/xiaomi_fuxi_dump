@@ -1,0 +1,15 @@
+system_ext/priv-app/Settings/Settings.apk.xz
+bootRE/boot.elf.xz
+recovery.img.xz
+odm/lib64/libxmi_high_dynamic_range_cdsp.so.xz
+odm/lib64/libailab_rawhdr.so.xz
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.xz
+product/app/MiGameService_8550/MiGameService_8550.apk.xz
+product/priv-app/MIUIAICR/MIUIAICR.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+product/priv-app/MIUIBrowser/MIUIBrowser.apk.xz
+product/priv-app/MiuiExtraPhoto/MiuiExtraPhoto.apk.xz
+product/priv-app/MiuiCamera/MiuiCamera.apk.xz
+product/data-app/SmartHome/SmartHome.apk.xz
+product/data-app/MIUIMusicT/MIUIMusicT.apk.xz
+product/data-app/Health/Health.apk.xz
