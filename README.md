@@ -1,0 +1,14 @@
+# missi-user 15 AQ3A.240912.001 OS2.0.101.0.VMCMIXM release-keys
+- manufacturer: xiaomi
+- platform: kalama
+- codename: fuxi
+- flavor: missi-user
+- release: 15
+- id: AQ3A.240912.001
+- incremental: OS2.0.101.0.VMCMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/fuxi_global/fuxi:13/TKQ1.221114.001/OS2.0.101.0.VMCMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-15-AQ3A.240912.001-OS2.0.101.0.VMCMIXM-release-keys
+- repo: xiaomi_fuxi_dump
