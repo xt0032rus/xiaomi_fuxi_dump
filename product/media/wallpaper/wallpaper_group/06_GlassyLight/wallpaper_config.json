@@ -1,0 +1,25 @@
+{
+    "title": "玻光涟漪",
+    "titleResId": "wallpaper_group_glassy_light_title",
+    "cardType": 1,
+    "count": 4,
+    "slideCount": 4,
+    "randomOrder": false,
+    "wallpapers": [{
+        "thumbPath": "./GlassyLight01.jpg",
+        "originPath": "./GlassyLight01.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./GlassyLight02.jpg",
+        "originPath": "./GlassyLight02.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./GlassyLight03.jpg",
+        "originPath": "./GlassyLight03.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./GlassyLight04.jpg",
+        "originPath": "./GlassyLight04.jpg",
+        "type": "wallpaper"
+    }]
+}
