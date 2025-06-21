@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!-- Information to support App link on Apps Orange v3.3 -->
+<config>
+  
+    <app-link package="com.orange.update" />
+    <allow-in-power-save package="com.orange.update" />
+    <allow-in-power-save package="com.orange.aura.oobe" />
+</config>

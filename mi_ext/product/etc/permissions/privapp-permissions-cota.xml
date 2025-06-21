@@ -1,0 +1,66 @@
+<permissions>
+    <privapp-permissions package="com.ironsource.appcloud.oobe.hutchison">
+        <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.dti.bouyguestelecom">
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.STATUS_BAR"/>
+        <permission name="android.permission.START_FOREGROUND_SERVICES_FROM_BACKGROUND"/>
+        <permission name="android.permission.START_ACTIVITIES_FROM_BACKGROUND"/>
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.orange.aura.oobe">
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.orange.update">
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+        <permission name="android.permission.DELETE_PACKAGES"/>        
+    </privapp-permissions>
+
+    <privapp-permissions package="com.aura.oobe.vodafone">
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.altice.android.myapps">
+      <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+      <permission name="android.permission.DELETE_PACKAGES"/>
+      <permission name="android.permission.INSTALL_PACKAGES"/>
+    </privapp-permissions>
+    
+    <privapp-permissions package="com.sfr.android.sfrjeux">
+      <permission name="android.permission.DELETE_PACKAGES"/>
+      <permission name="android.permission.INSTALL_PACKAGES"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="fr.bouyguestelecom.agent.custo">
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+        <permission name="android.permission.DELETE_PACKAGES"/>
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.ACCESS_WIFI_STATE"/>
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="android.permission.WRITE_SETTINGS"/>
+        <permission name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
+        <permission name="com.android.launcher.permission.UNINSTALL_SHORTCUT"/>
+        <permission name="android.permission.WAKE_LOCK"/>
+        <permission name="android.permission.GET_TASKS"/>
+        <permission name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
+        <permission name="android.permission.QUERY_ALL_PACKAGES"/>
+        <permission name="fr.bouyguestelecom.agent.custo.HELPER_RECEIVER"/>
+        <permission name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.dti.telefonica">
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="android.permission.STATUS_BAR"/>
+        <permission name="android.permission.SCHEDULE_EXACT_ALARM"/>
+    </privapp-permissions>
+
+</permissions>
