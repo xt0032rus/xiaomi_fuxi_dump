@@ -1,0 +1,50 @@
+{
+    "actionitem": [
+		{
+		"name": "global_reclaim",
+		"path": "/proc/global_reclaim"
+		}
+	],
+    "policy": [
+		{
+		"name": "global_reclaim_8G",
+		"memitem":    [ "memitem_init", "memitem_init"],
+		"algo":       [ "high", "low" ],
+		"threshold":  [ "1" , "8"],
+		"actionitem": [ "global_reclaim" ],
+		"target":     [ "262144" ],
+		"mem_size": "8",
+		"type": "0"
+		},
+		{
+		"name": "global_reclaim_12G",
+		"memitem":    [ "memitem_init", "memitem_init"],
+		"algo":       [ "high", "low" ],
+		"threshold":  [ "1" , "7"],
+		"actionitem": [ "global_reclaim" ],
+		"target":     [ "393216" ],
+		"mem_size": "12",
+		"type": "0"
+		},
+		{
+		"name": "global_reclaim_16G",
+		"memitem":    [ "memitem_init", "memitem_init"],
+		"algo":       [ "high", "low" ],
+		"threshold":  [ "1" , "7"],
+		"actionitem": [ "global_reclaim" ],
+		"target":     [ "393216" ],
+		"mem_size": "16",
+		"type": "0"
+		},
+		{
+		"name": "global_reclaim_24G",
+		"memitem":    [ "memitem_init", "memitem_init"],
+		"algo":       [ "high", "low" ],
+		"threshold":  [ "1" , "7"],
+		"actionitem": [ "global_reclaim" ],
+		"target":     [ "393216" ],
+		"mem_size": "24",
+		"type": "0"
+		}
+    ]
+}
