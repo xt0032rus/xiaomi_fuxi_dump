@@ -1,0 +1,15 @@
+[
+  {
+    "product": ["onyx","jinghu","dijun","bixi","luming","taiko","klimt","goya","dali","turner"],
+    "packagename": [
+      "com.yipiao",
+      "com.sankuai.meituan",
+      "com.homelink.android",
+      "com.cubic.autohome",
+      "com.job.android",
+      "com.didapinche.booking",
+      "cn.gov.tax.its",
+      "com.tencent.qqpimsecure"
+    ]
+  }
+]
